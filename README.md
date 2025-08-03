@@ -1,6 +1,6 @@
 Output : https://www.linkedin.com/posts/prem-kumar-6bbb75225_ai-nlp-openai-activity-7263104778874818562-pAL3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiXcK8BNViUANcLzsY_EFiaRBgJX1yXAJw 
 
-## 🚀 Features
+## Features
 
 🔹 **Flexible Audio Support**  
 Accepts multiple audio formats, automatically validating each file type and quality for seamless transcription.
